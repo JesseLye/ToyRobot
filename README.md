@@ -12,7 +12,7 @@ A C# implementation of a famous coding exercise
 4) In PowerShell, navigate to directory **ToyRobot** > **bin** > **Debug** > **net8.0**
 5) Create the file `Commands.txt`
 6) Write your robot's commands (see examples below)
-7) In PowerShell, run `./ToyRobot -i="Commands.txt"`
+7) In PowerShell, run `./ToyRobot.exe -i="Commands.txt"`
 
 ## How To Run Tests
 1) Open Project in Visual Studio
